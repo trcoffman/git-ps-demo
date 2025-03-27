@@ -1,3 +1,5 @@
+Adding another commit to a stacked PR base.
+
 Initial commit
 
 Did some work, modified, modified again
@@ -6,3 +8,5 @@ work1 part 2
 Code review feedback for work1
 
 work
+
+change amended
