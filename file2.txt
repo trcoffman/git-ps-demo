@@ -1,5 +1,7 @@
 Another upstream change
 
+stack 2
+
 Some other work that's not related
 
 work 2
